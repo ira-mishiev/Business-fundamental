@@ -1,5 +1,5 @@
 # Business-fundamental
-#Abstract
+# Abstract
 
 
 
@@ -14,18 +14,16 @@ Risks and assumptions:
 Making a photo is a creative and unpredictable process, so that recommendation could have been impossible to realize. 
 If to make the same recommendations for all photographers in a specific location, the content can be similar.
 
-
-
-#Data
+# Data
 I will use personal data with photo sales made between 2017-2020. Every row in the table contains the following features: date, id, description, price, customer's name, photo usage, news outlets, and country where the photo was purchased.
  
-#Design
+# Design
 This project aims to increase the company's profit by motivating photographers to make more valuable on-market photos. Creating aggregated data tables and visualization would help identify what kind of photos make more than the average revenue per sale and describe the potential clients that buy more expensive content. Having access to these insights, contributors potentially would use this knowledge and try to make photos with higher revenue. 
 
-#Tools:
+# Tools:
 Google Sheets and Tableau for data analysis and visualization. 
-#Algorithms
+# Algorithms
 Google Sheets for data analysis, aggregation, cleaning, and visualizations. Tableau for data exploration and visualization. 
-#Communication
+# Communication
 The output of this project is showcased in the presentation and by links below
 
