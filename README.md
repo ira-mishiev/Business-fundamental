@@ -26,4 +26,9 @@ Google Sheets and Tableau for data analysis and visualization.
 Google Sheets for data analysis, aggregation, cleaning, and visualizations. Tableau for data exploration and visualization. 
 # Communication
 The output of this project is showcased in the presentation and by links below
+[Dashboard1](https://public.tableau.com/views/Getty_projectDashboard1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Dashboard2](https://public.tableau.com/views/Getty_projectDashboard2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Dashboard3](https://public.tableau.com/views/Getty_projectDashboard3/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Dashboard4](https://public.tableau.com/views/Getty_projectDashboard4/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
