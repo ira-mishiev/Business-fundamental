@@ -20,7 +20,7 @@ I will use personal data with photo sales made between 2017-2020. Every row in t
 # Design
 This project aims to increase the company's profit by motivating photographers to make more valuable on-market photos. Creating aggregated data tables and visualization would help identify what kind of photos make more than the average revenue per sale and describe the potential clients that buy more expensive content. Having access to these insights, contributors potentially would use this knowledge and try to make photos with higher revenue. 
 
-# Tools:
+# Tools
 Google Sheets and Tableau for data analysis and visualization. 
 # Algorithms
 Google Sheets for data analysis, aggregation, cleaning, and visualizations. Tableau for data exploration and visualization. 
